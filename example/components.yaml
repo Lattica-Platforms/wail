@@ -1,0 +1,16 @@
+entities:
+  # - name: hello-plugin
+  #   source:
+  #     path: file:///Users/luk3ark/Projects/lattica/Wail/Wail/build/hello_plugin.wasm
+
+  # - name: wasi-cli
+  #   source:
+  #     path: file:///Users/luk3ark/Projects/lattica/Wail/example/wasm/wasi_cli@0.2.2.wasm
+
+  - name: wasi-http
+    source:
+      path: file:///Users/luk3ark/Projects/lattica/Wail/example/wasm/wasi_http@0.2.2.wasm
+
+  - name: http-component
+    source:
+      path: file:///Users/luk3ark/Projects/lattica/Wail/example/dog-fetcher/build/dog_fetcher.wasm
